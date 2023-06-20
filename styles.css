@@ -1,0 +1,4 @@
+body{background-color: darkblue;}
+body{background-image: linear-gradient(to left, darkblue, black);}
+body{text-align: center;}
+footer{text-align: left;}
